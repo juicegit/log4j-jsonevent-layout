@@ -1,6 +1,6 @@
 # Logstash `json_event` pattern for log4j
 
-[![Build Status](https://travis-ci.org/lusis/log4j-jsonevent-layout.png)](https://travis-ci.org/lusis/log4j-jsonevent-layout)
+[ ![Codeship Status for juicegit/log4j-jsonevent-layout](https://app.codeship.com/projects/e74d9a90-0b8f-0135-0e9c-66e92f8b08cc/status?branch=master)](https://app.codeship.com/projects/215045)
 
 ## What is it?
 If you've used log4j, you know that certain appenders support things called _"Layouts"_. These are basically ways for you to control the formatting/rendering of a log event.
