@@ -19,6 +19,7 @@ import org.apache.logging.log4j.status.StatusLogger;
 
 /**
  * @author michaelkuechler, maartenbosteels
+ 
  */
 @Plugin(name = "JSONEventLayoutV1", category = "Core", elementType = "layout", printObject = true)
 public class JSONEventLayoutV1 extends AbstractStringLayout {
